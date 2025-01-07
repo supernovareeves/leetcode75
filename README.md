@@ -30,16 +30,16 @@ File Structure:
 
 ## 📅 Progress Tracker
 
-| Day   | Problem Number | Title                                    | Difficulty | Status   |
-|-------|----------------|------------------------------------------|------------|----------|
-| Day 00 | 1768           | Merge Strings Alternately               | Easy       | ✅ Solved |
-| Day 01 | 1071           | Greatest Common Divisor of Strings      | Easy       | ✅ Solved |
-| Day 02 | 1431           | Kids With The Greatest Number of Candies| Easy       | ✅ Solved |
-| Day 03 | 605            | Can Place Flowers                       | Easy       | ✅ Solved |
-| Day 04 | 345            | Reverse Vowels of a String              | Easy       | ✅ Solved |
-| Day 05 | 151            | Reverse Words in a String               | Medium     | ✅ Solved |
-| Day 06 | 238            | Product of Array Except Self            | Medium     | ❌ Unsolved |
-| Day 07 | 334            | Increasing Triplet Subsequence          | Medium     | ❌ Unsolved |
+| Day   | Problem Number | Title                                    | Difficulty | Status   | Solved Date     |
+|-------|----------------|------------------------------------------|------------|----------|-----------------|
+| Day 00 | 1768           | Merge Strings Alternately               | Easy       | ✅ Solved | 2024-12-30     |
+| Day 01 | 1071           | Greatest Common Divisor of Strings      | Easy       | ✅ Solved | 2024-12-30     |
+| Day 02 | 1431           | Kids With The Greatest Number of Candies| Easy       | ✅ Solved | 2024-12-30     |
+| Day 03 | 605            | Can Place Flowers                       | Easy       | ✅ Solved | 2024-12-30     |
+| Day 04 | 345            | Reverse Vowels of a String              | Easy       | ✅ Solved | 2024-12-30     |
+| Day 05 | 151            | Reverse Words in a String               | Medium     | ✅ Solved | 2024-12-31     |
+| Day 06 | 238            | Product of Array Except Self            | Medium     | ✅ Solved | 2025-01-02     |
+| Day 07 | 334            | Increasing Triplet Subsequence          | Medium     | ✅ Solved | 2025-01-07     |
 | Day 08 | 443            | String Compression                      | Medium     | ❌ Unsolved |
 | Day 09 | 283            | Move Zeroes                             | Easy       | ❌ Unsolved |
 | Day 10 | 392            | Is Subsequence                          | Easy       | ❌ Unsolved |
