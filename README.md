@@ -40,7 +40,7 @@ File Structure:
 | Day 05 | 151            | Reverse Words in a String               | Medium     | ✅ Solved | 2024-12-31     |
 | Day 06 | 238            | Product of Array Except Self            | Medium     | ✅ Solved | 2025-01-02     |
 | Day 07 | 334            | Increasing Triplet Subsequence          | Medium     | ✅ Solved | 2025-01-07     |
-| Day 08 | 443            | String Compression                      | Medium     | ❌ Unsolved |
+| Day 08 | 443            | String Compression                      | Medium     | ✅ Solved | 2025-01-08     |
 | Day 09 | 283            | Move Zeroes                             | Easy       | ❌ Unsolved |
 | Day 10 | 392            | Is Subsequence                          | Easy       | ❌ Unsolved |
 | Day 11 | 11             | Container With Most Water               | Medium     | ❌ Unsolved |
